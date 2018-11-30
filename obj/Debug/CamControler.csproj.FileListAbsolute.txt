@@ -1,0 +1,13 @@
+c:\users\joven ejemplar_2\source\repos\CamControler\CamControler\bin\Debug\CamControler.exe.config
+c:\users\joven ejemplar_2\source\repos\CamControler\CamControler\bin\Debug\CamControler.exe
+c:\users\joven ejemplar_2\source\repos\CamControler\CamControler\bin\Debug\CamControler.pdb
+c:\users\joven ejemplar_2\source\repos\CamControler\CamControler\obj\Debug\CamControler.csprojAssemblyReference.cache
+c:\users\joven ejemplar_2\source\repos\CamControler\CamControler\obj\Debug\CamControler.Form1.resources
+c:\users\joven ejemplar_2\source\repos\CamControler\CamControler\obj\Debug\CamControler.Properties.Resources.resources
+c:\users\joven ejemplar_2\source\repos\CamControler\CamControler\obj\Debug\CamControler.csproj.GenerateResource.cache
+c:\users\joven ejemplar_2\source\repos\CamControler\CamControler\obj\Debug\CamControler.csproj.CoreCompileInputs.cache
+c:\users\joven ejemplar_2\source\repos\CamControler\CamControler\obj\Debug\CamControler.exe
+c:\users\joven ejemplar_2\source\repos\CamControler\CamControler\obj\Debug\CamControler.pdb
+c:\users\joven ejemplar_2\source\repos\CamControler\CamControler\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\joven ejemplar_2\source\repos\CamControler\CamControler\bin\Debug\AForge.Video.dll
+c:\users\joven ejemplar_2\source\repos\CamControler\CamControler\obj\Debug\CamControler.csproj.CopyComplete
